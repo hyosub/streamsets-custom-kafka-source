@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/custom-cdh_kafka_3_1-lib/custom-cdh_kafka_3_1-lib.iml" filepath="$PROJECT_DIR$/custom-cdh_kafka_3_1-lib/custom-cdh_kafka_3_1-lib.iml" />
-    </modules>
-  </component>
-</project>
