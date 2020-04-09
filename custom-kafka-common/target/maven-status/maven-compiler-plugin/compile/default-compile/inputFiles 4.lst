@@ -1,9 +1,0 @@
-/Users/hyosub/Documents/Projects/Study/StreamSets/custom-sdc-kafka-source/custom-kafka-common/src/main/java/com/streamsets/pipeline/lib/kafka/KafkaAutoOffsetResetValues.java
-/Users/hyosub/Documents/Projects/Study/StreamSets/custom-sdc-kafka-source/custom-kafka-common/src/main/java/com/streamsets/pipeline/lib/kafka/exception/KafkaConnectionException.java
-/Users/hyosub/Documents/Projects/Study/StreamSets/custom-sdc-kafka-source/custom-kafka-common/src/main/java/com/streamsets/pipeline/stage/origin/kafka/KeyCaptureMode.java
-/Users/hyosub/Documents/Projects/Study/StreamSets/custom-sdc-kafka-source/custom-kafka-common/src/main/java/com/streamsets/pipeline/lib/kafka/KafkaAutoOffsetReset.java
-/Users/hyosub/Documents/Projects/Study/StreamSets/custom-sdc-kafka-source/custom-kafka-common/src/main/java/com/streamsets/pipeline/lib/kafka/BaseKafkaValidationUtil.java
-/Users/hyosub/Documents/Projects/Study/StreamSets/custom-sdc-kafka-source/custom-kafka-common/src/main/java/com/streamsets/pipeline/lib/kafka/KafkaConstants.java
-/Users/hyosub/Documents/Projects/Study/StreamSets/custom-sdc-kafka-source/custom-kafka-common/src/main/java/com/streamsets/pipeline/lib/kafka/MessageKeyUtil.java
-/Users/hyosub/Documents/Projects/Study/StreamSets/custom-sdc-kafka-source/custom-kafka-common/src/main/java/com/streamsets/pipeline/lib/kafka/KafkaErrors.java
-/Users/hyosub/Documents/Projects/Study/StreamSets/custom-sdc-kafka-source/custom-kafka-common/src/main/java/com/streamsets/pipeline/stage/origin/kafka/KeyCaptureModeChooserValues.java

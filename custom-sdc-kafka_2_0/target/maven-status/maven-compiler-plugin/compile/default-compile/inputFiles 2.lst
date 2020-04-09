@@ -1,6 +1,0 @@
-/Users/hyosub/Documents/Projects/Study/StreamSets/custom-sdc-kafka-source/custom-sdc-kafka_2_0/src/main/java/com/streamsets/pipeline/kafka/impl/ExpressionPartitioner20.java
-/Users/hyosub/Documents/Projects/Study/StreamSets/custom-sdc-kafka-source/custom-sdc-kafka_2_0/src/main/java/com/streamsets/pipeline/kafka/impl/Kafka20FactoriesBean.java
-/Users/hyosub/Documents/Projects/Study/StreamSets/custom-sdc-kafka-source/custom-sdc-kafka_2_0/src/main/java/com/streamsets/pipeline/kafka/impl/KafkaConsumer20.java
-/Users/hyosub/Documents/Projects/Study/StreamSets/custom-sdc-kafka-source/custom-sdc-kafka_2_0/src/main/java/com/streamsets/pipeline/kafka/impl/Kafka20ConsumerFactory.java
-/Users/hyosub/Documents/Projects/Study/StreamSets/custom-sdc-kafka-source/custom-sdc-kafka_2_0/src/main/java/com/streamsets/pipeline/kafka/impl/Kafka20ProducerFactory.java
-/Users/hyosub/Documents/Projects/Study/StreamSets/custom-sdc-kafka-source/custom-sdc-kafka_2_0/src/main/java/com/streamsets/pipeline/kafka/impl/KafkaProducer20.java

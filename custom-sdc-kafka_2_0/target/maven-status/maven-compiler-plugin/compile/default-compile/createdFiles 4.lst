@@ -1,6 +1,0 @@
-com/streamsets/pipeline/kafka/impl/ExpressionPartitioner20.class
-com/streamsets/pipeline/kafka/impl/Kafka20FactoriesBean.class
-com/streamsets/pipeline/kafka/impl/Kafka20ProducerFactory.class
-com/streamsets/pipeline/kafka/impl/KafkaProducer20.class
-com/streamsets/pipeline/kafka/impl/KafkaConsumer20.class
-com/streamsets/pipeline/kafka/impl/Kafka20ConsumerFactory.class

@@ -1,6 +1,0 @@
-[
-  "com.streamsets.pipeline.kafka.api.KafkaDestinationGroups",
-  "com.streamsets.pipeline.kafka.api.ProducerKeyFormat",
-  "com.streamsets.pipeline.kafka.api.KafkaOriginGroups",
-  "com.streamsets.pipeline.kafka.api.PartitionStrategy"
-]
