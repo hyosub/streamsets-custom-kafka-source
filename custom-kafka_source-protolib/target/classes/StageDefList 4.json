@@ -1,0 +1,15 @@
+[
+ {
+	"name": "com_streamsets_pipeline_stage_origin_kafka_KafkaDSource",
+	"type": "SOURCE",
+	"label": "Kafka Consumer",
+	"description": "Reads data from Kafka",
+	"version": 9,
+	"statsAggregatorStage": false,
+	"errorStage": false,
+	"beta": false,
+	"tags": [],
+	"onlineHelpRefUrl": "index.html?contextID=task_npx_xgf_vq",
+	"icon": "kafka.png"
+ }
+]

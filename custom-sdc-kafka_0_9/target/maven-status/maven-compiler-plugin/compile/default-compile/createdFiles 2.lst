@@ -1,0 +1,12 @@
+com/streamsets/pipeline/kafka/impl/Kafka09ValidationUtilFactory.class
+com/streamsets/pipeline/kafka/impl/KafkaLowLevelConsumer09.class
+com/streamsets/pipeline/kafka/impl/RoundRobinPartitioner.class
+com/streamsets/pipeline/kafka/impl/Kafka09FactoriesBean.class
+com/streamsets/pipeline/kafka/impl/Kafka09LowLevelConsumerFactory.class
+com/streamsets/pipeline/kafka/impl/ExpressionPartitioner.class
+com/streamsets/pipeline/kafka/impl/Kafka09ConsumerFactory.class
+com/streamsets/pipeline/kafka/impl/KafkaProducer09.class
+com/streamsets/pipeline/kafka/impl/Kafka09ProducerFactory.class
+com/streamsets/pipeline/kafka/impl/KafkaValidationUtil09.class
+com/streamsets/pipeline/kafka/impl/RandomPartitioner.class
+com/streamsets/pipeline/kafka/impl/KafkaConsumer09.class

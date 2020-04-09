@@ -1,0 +1,15 @@
+com/streamsets/pipeline/stage/origin/kafka/KeyDeserializerChooserValues.class
+com/streamsets/pipeline/stage/origin/kafka/DataFormatChooserValues.class
+com/streamsets/pipeline/stage/origin/kafka/StandaloneKafkaSource.class
+com/streamsets/pipeline/stage/origin/kafka/ValueDeserializerChooserValues.class
+com/streamsets/pipeline/stage/origin/kafka/StandaloneKafkaSourceFactory.class
+com/streamsets/pipeline/stage/origin/kafka/ClusterKafkaSourceFactory.class
+com/streamsets/pipeline/stage/origin/kafka/KafkaDSource.class
+com/streamsets/pipeline/stage/origin/kafka/BaseKafkaSource.class
+com/streamsets/pipeline/stage/origin/kafka/Deserializer.class
+com/streamsets/pipeline/stage/origin/kafka/DelegatingKafkaSource.class
+com/streamsets/pipeline/stage/origin/kafka/KafkaSourceFactory.class
+com/streamsets/pipeline/stage/origin/kafka/KafkaSourceUpgrader.class
+com/streamsets/pipeline/stage/origin/kafka/KafkaRawSourcePreviewer.class
+com/streamsets/pipeline/stage/origin/kafka/KafkaConfigBean.class
+com/streamsets/pipeline/stage/origin/kafka/Deserializer$SerializerConstants.class

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.streamsets</groupId>
+  <artifactId>custom-sdc-kafka-source</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0.0-SNAPSHOT</version>
+  <modules>
+    <module>custom-cdh_6_3-lib</module>
+    <!--
+    <module>custom-cdh_kafka_3_1-lib</module>-->
+    <module>custom-kafka_source-protolib</module>
+    <module>custom-sdc-kafka-api</module>
+    <module>custom-sdc-kafka_0_9-common</module>
+    <module>custom-sdc-kafka_0_11</module>
+    <module>custom-sdc-kafka_0_11-common</module>
+    <module>custom-sdc-kafka_0_9</module>
+    <module>custom-sdc-kafka_2_0</module>
+    <module>custom-kafka-common</module>
+    <module>custom-cluster-kafka-protolib</module>
+  </modules>
+
+  <properties>
+    <streamsets.version>3.13.0</streamsets.version>
+    <jdk.version>1.8</jdk.version>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>com.streamsets</groupId>
+      <artifactId>streamsets-datacollector-api</artifactId>
+      <version>${streamsets.version}</version>
+    </dependency>
+
+    <!--<dependency>
+      <groupId>com.streamsets</groupId>
+      <artifactId>streamsets-datacollector-commonlib</artifactId>
+      <version>${streamsets.version}</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.streamsets</groupId>
+      <artifactId>streamsets-datacollector-cluster-bootstrap-api</artifactId>
+      <version>${streamsets.version}</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.streamsets</groupId>
+      <artifactId>streamsets-datacollector-cluster-common</artifactId>
+      <version>${streamsets.version}</version>
+    </dependency>-->
+  </dependencies>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.1</version>
+        <configuration>
+          <source>${jdk.version}</source>
+          <target>${jdk.version}</target>
+        </configuration>
+        <executions>
+          <execution>
+            <id>default-compile</id>
+            <phase>compile</phase>
+            <goals>
+              <goal>compile</goal>
+            </goals>
+            <configuration>
+              <!--
+                Disable annotation processing during main compile time only. We need it for testcases.
+              -->
+              <compilerArgument>-proc:none</compilerArgument>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+
+</project>

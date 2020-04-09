@@ -1,0 +1,4 @@
+com/streamsets/pipeline/kafka/impl/Kafka09Constants.class
+com/streamsets/pipeline/kafka/impl/BaseKafkaConsumer09.class
+com/streamsets/pipeline/kafka/impl/BaseKafkaProducer09.class
+com/streamsets/pipeline/kafka/impl/BaseKafkaConsumer09$KafkaConsumerRunner.class

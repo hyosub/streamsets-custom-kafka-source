@@ -1,0 +1,3 @@
+com/streamsets/pipeline/kafka/impl/Kafka11FactoriesBean.class
+com/streamsets/pipeline/kafka/impl/Kafka11ConsumerFactory.class
+com/streamsets/pipeline/kafka/impl/KafkaConsumer11.class
